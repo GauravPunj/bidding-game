@@ -1,0 +1,30 @@
+Please enter your name using only letters: 34
+
+Please only use letters when filling in your name taggaurav
+Gaurav! Come on down! you're the next contestant on the Price is (sorta) Right!
+
+please enter player no. 2 namedeepak
+
+please enter player no. 3 nameyash
+
+please enter player no. 4 nameash
+Bob Meower welcomes Gaurav to contestant's row, joining  deepak , yash and ash
+Bob Meower shows you the prize you will be bidding on for value upto 1000
+
+Gaurav, what is your bid? $456
+deepak bids 867 dollars.
+yash bids 270 dollars.
+ash bids 405 dollars.
+closest differnce with bid is $ 157
+Bob Meower says,  yash is the winner!
+Gaurav You have one last chance
+
+Gaurav, what is your bid? $457
+deepak bids 634 dollars.
+yash bids 751 dollars.
+ash bids 97 dollars.
+Bob Meower  says, Everyone has bid too high, lets try again
+closest differnce with bid is $ 16
+Bob Meower says,  ash is the winner!
+Bob Meower  says, The actual price of the item was 113  dollars
+Bob Meower  turns to Gaurav and says, i'm sorry you didnt have better luck here today, but we're sending you home with the unofficial board game of the price is (sorta) right
